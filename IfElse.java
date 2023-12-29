@@ -29,7 +29,7 @@ System.out.println(a+" is biggest number");
 	    
 else
 	    
-
+}
 	        
 System.out.println(b+" is the biggest number");
 	    
